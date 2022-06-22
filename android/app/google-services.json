@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452505538258",
+    "project_id": "poppy-c9de9",
+    "storage_bucket": "poppy-c9de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452505538258:android:d9e75c161c6be421ef670b",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452505538258-hk2ohrhjeo0kd8gpsa4j4bk7rriq0sb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbZvEC3wlGmpILT1i4029FaBir3ImLnYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452505538258-hk2ohrhjeo0kd8gpsa4j4bk7rriq0sb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
